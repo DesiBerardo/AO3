@@ -26,19 +26,28 @@ successful
 17. Make some new changes to the file
 18. Commit the file, then click push
 19. The changes you made in Webstorm should now appear in Github
- 
+
 PART 2: Glossary to include these terms in a bulleted list.
  Branch – A temporary work area for new development
+
  Clone – the copying of the branch and base code to your development environment
+
  Commit – prepares a file on a local machine to be pushed up to Github
+
  Fetch – to download commits, files, and refs from a remote repository
- GIT - a type of version control system that makes it easier to track changes to files.
-(command line)
+
+ GIT - a type of version control system that makes it easier to track changes to files. (command line)
+
  Github – Open source version control system
- Merge – when GIT combines independent lines of code and integrates them into a
-single branch
+
+ Merge – when GIT combines independent lines of code and integrates them into a single branch
+
  Merge Conflict – When GIT cannot resolve differences in code between 2 commits
+
  Push – puts committed files into a repository on Github
+
  Pull – takes files from a Github repository and puts them on the local machine
+
  Remote – a place where repositories are stored, such as Github
+
  Repository – a place where files are stored and can be pulled/pushed
